@@ -1,6 +1,6 @@
 {
   "language": "Russian Hackers translate",
-  "idItem": 1,
+  "idItem": 2713059261,
   "gameVersion": 0,
   "content": {
     "content": {
@@ -668,7 +668,7 @@
       "SPAM_DETAIL_2": "",
       "SPAM_DETAIL_3": "",
       "SERVER_RULES": "",
-      "TOOLTIP_BLACKLIST_AUTO": "",
+      "TOOLTIP_BLACKLIST_AUTO": "Добавить отправителя в черный список.",
       "BLACKLIST_QUESTION": "",
       "CONV_BK_MISSION_4": "",
       "CONV_BK_MISSION_4B": "$IP_IDX1",
